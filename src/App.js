@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import { Navbar } from './components';
-import GlobalStyle from './globalStyle';
+import GlobalStyle from './globalStyles';
 
 function App() {
   return (
